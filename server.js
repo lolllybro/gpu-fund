@@ -366,7 +366,7 @@ app.post('/api/poll', async (req, res) => {
 });
 
 // Catch-all
-app.get('*', (req, res) => res.sendFile(path.join(__dirname, 'client', 'index.html')));
+app.get('*', (req, res) => res.sendFile(path.join(__dirname, 'index.html')));
 
 // ── WebSocket ─────────────────────────────────────────────────────────
 io.on('connection', socket => {
