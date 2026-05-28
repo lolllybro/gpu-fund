@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤝 GPU Fund — NVIDIA Project DIGITS
 
 Crypto donation tracker — raising **$5,000** for NVIDIA GB10 Superchip.
@@ -126,3 +127,6 @@ TG_CHAT_ID=-100xxxxxxxxxx
 | axios | HTTP requests to APIs |
 | cors | CORS headers |
 | dotenv | Environment variables |
+=======
+# gpu-fund
+>>>>>>> b25764ffdb536c85ce69c00d22681ac7b8d309cb
