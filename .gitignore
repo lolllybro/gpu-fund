@@ -1,0 +1,6 @@
+node_modules/
+donations.db
+logs/
+.env
+*.log
+.DS_Store
